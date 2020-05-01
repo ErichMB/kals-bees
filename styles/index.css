@@ -1,0 +1,35 @@
+.landing {
+	color: black;
+	text-align: center;
+}
+
+.landing img {
+	width: 8.5em;
+	height: 6em;
+	margin-top: 3em;
+}
+
+.landing h2 {
+	letter-spacing: 1px;
+}
+
+.landing ul {
+	list-style: none;
+}
+
+.landing li {
+	letter-spacing: 1px;
+	text-decoration: none;
+	list-style-type: none;
+	min-height: 2em;
+	font-size: 1.4em;
+}
+
+.landing li:hover {
+	font-size: 2em;
+}
+
+.landing a {
+	text-decoration: none;
+	color: black;
+}
