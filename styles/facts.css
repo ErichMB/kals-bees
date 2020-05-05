@@ -1,0 +1,9 @@
+.facts .list {
+	text-align: center;
+	line-height: 5em;
+	list-style: none;
+}
+
+.facts .source {
+	font-size: .8em;
+}
