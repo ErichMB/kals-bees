@@ -1,11 +1,17 @@
 .contact {
 	color: black;
 }
+
 .contact .container {
+	display: block;
+	text-align: center;
+}
+
+.contact form {
+	display: inline-block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 90%;
-	display: inline-block;
+	text-align: left;
 }
 
 .contact h1 {
